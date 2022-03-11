@@ -20,8 +20,6 @@ namespace Lommeregner_2._0
             Application.Run(new Form1());
         }
     }
-    namespace yeet
-    {
-
-    }
+    
+    
 }
