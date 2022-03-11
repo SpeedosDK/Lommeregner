@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Lommeregner_2._0
+
 {
     static class Program
     {
@@ -18,5 +19,9 @@ namespace Lommeregner_2._0
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+    }
+    namespace yeet
+    {
+
     }
 }
